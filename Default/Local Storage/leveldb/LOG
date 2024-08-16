@@ -1,0 +1,5 @@
+2024/08/16-23:51:01.497 3ef0 Reusing MANIFEST C:\Users\admin\PycharmProjects\pythonProject3\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/16-23:51:01.501 3ef0 Recovering log #22
+2024/08/16-23:51:01.503 3ef0 Reusing old log C:\Users\admin\PycharmProjects\pythonProject3\Default\Local Storage\leveldb/000022.log 
+2024/08/16-23:51:15.848 420c Level-0 table #26: started
+2024/08/16-23:51:15.862 420c Level-0 table #26: 12553 bytes OK

@@ -1,0 +1,16 @@
+2024/08/16-23:51:02.441 4a8 Reusing MANIFEST C:\Users\admin\PycharmProjects\pythonProject3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/16-23:51:02.442 4a8 Recovering log #296
+2024/08/16-23:51:02.476 4a8 Reusing old log C:\Users\admin\PycharmProjects\pythonProject3\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000296.log 
+2024/08/16-23:51:02.920 4a8 Level-0 table #303: started
+2024/08/16-23:51:02.930 4a8 Level-0 table #303: 333894 bytes OK
+2024/08/16-23:51:02.931 4a8 Delete type=0 #296
+2024/08/16-23:51:02.932 4a8 Manual compaction at level-0 from '\x00W\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00X\x00\x00\x00' @ 0 : 0; will stop at '\x00W\x00\x00\x05' @ 624024 : 1
+2024/08/16-23:51:02.932 4a8 Compacting 1@0 + 3@1 files
+2024/08/16-23:51:03.054 4a8 Generated table #304@0: 140545 keys, 2312418 bytes
+2024/08/16-23:51:03.112 4a8 Generated table #305@0: 22370 keys, 2210174 bytes
+2024/08/16-23:51:03.185 4a8 Generated table #306@0: 81962 keys, 2226150 bytes
+2024/08/16-23:51:03.187 4a8 Generated table #307@0: 93 keys, 6351 bytes
+2024/08/16-23:51:03.187 4a8 Compacted 1@0 + 3@1 files => 6755093 bytes
+2024/08/16-23:51:03.188 4a8 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/08/16-23:51:03.188 4a8 Delete type=2 #303
+2024/08/16-23:51:03.188 4a8 Manual compaction at level-0 from '\x00W\x00\x00\x05' @ 624024 : 1 .. '\x00X\x00\x00\x00' @ 0 : 0; will stop at (end)
